@@ -23,7 +23,7 @@ class Solution:
         # Output: false
 
 #Evaluate
-    #Time Complexity:
-    #Space Complexity:
+    #Time Complexity:O(n)
+    #Space Complexity:O(n)
 
 #Completed 7/12/25
